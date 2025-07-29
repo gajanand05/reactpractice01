@@ -14,7 +14,7 @@ function App() {
         <button onClick={() => setColor('green')} className="bg-green-500 text-white px-4 py-2 rounded">Green</button>
         <button onClick={() => setColor('blue')} className="bg-blue-500 text-white px-4 py-2 rounded">Blue</button>
         <button onClick={() => setColor('yellow')} className="bg-yellow-500 text-white px-4 py-2 rounded">Yellow</button>
-        <button onClick={() => setColor('pink')} className="bg-pink-500 text-white px-4 py-2 rounded">Pink</button>
+        <button onClick={() => setColor('pink')} className="bg-pink-500 text-white px-4 py-2 rounded">Pinkss</button>
       </div>
     </>
   );
